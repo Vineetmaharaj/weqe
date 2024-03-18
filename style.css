@@ -10,7 +10,7 @@ body {
   width: 100%;
   height: 100%;
   overflow: hidden;
-  background-image: url("https://i.postimg.cc/0N7pTv3H/msg949397019-11955.jpg");
+  background-image: url("https://i.postimg.cc/9X12PzvM/msg949397019-11961-1.jpg");
   background-size: 100vh 100vh;
   background-size: cover;
   z-index: -1;
@@ -19,16 +19,16 @@ body {
 
 @keyframes vineet {
   0% {
-    background-image: url("https://i.postimg.cc/SQ3wr76Q/msg949397019-11956.jpg");
+    background-image: url("https://i.postimg.cc/Xvnxg7Mj/msg949397019-11962-1.jpg");
   }
   25% {
-    background-image: url("https://i.postimg.cc/fWm68SBx/msg949397019-11954.jpg");
+    background-image: url("https://i.postimg.cc/wTHVzjvh/msg949397019-11963-3.jpg");
   }
   50% {
-    background-image: url("https://i.postimg.cc/fWm68SBx/msg949397019-11954.jpg");
+    background-image: url("https://i.postimg.cc/Nj2LP1cb/msg949397019-11964-2.jpg");
   }
   80% {
-    background-image: url("https://i.postimg.cc/NjcTRSL6/Whats-App-Image-2023-12-28-at-1-23-10-PM.jpg");
+    background-image: url("https://i.postimg.cc/9X12PzvM/msg949397019-11961-1.jpg");
   }
 }
 
